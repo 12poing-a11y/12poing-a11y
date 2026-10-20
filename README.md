@@ -8,6 +8,11 @@
 
 信号板 · 验证参数 · 流水线一览（GitHub Pages）
 
+## 第二大脑
+
+- Notion 主控：**第二大脑 · 余**
+- Vault 镜像：https://github.com/12poing-a11y/second-brain
+
 ## Now
 
 - 构建可复现的 **CTA 路径A** 流水线（信号 → 风险预算仓位 → 周度回测）
